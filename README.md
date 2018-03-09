@@ -11,8 +11,9 @@ This project used 3 dependencies :
 The database used in this project is **H2 Embedded Database**
 
 ## Getting Started
-This project consists of 4 major packages :
+This project consists of 5 major packages :
 * Model
+* Repository
 * Service
 * Batch
 * Controller
